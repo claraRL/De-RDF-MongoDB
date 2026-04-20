@@ -4,7 +4,7 @@ Ce projet réalise un pipeline complet d'intégration de données, allant de l'e
 
 ## 📋 Description du Projet
 L'objectif est de constituer une base documentaire de films primés en utilisant deux approches complémentaires :
-1. **Extraction de données** via SPARQL sur le point d'accès (endpoint) de Wikidata.
+1. **Extraction de données** via SPARQL sur le point d'accès de Wikidata.
 2. **Gestion et transformation** des données dans MongoDB pour créer des vues orientées "films" et "acteurs".
 
 ## 📂 Structure des Scripts
