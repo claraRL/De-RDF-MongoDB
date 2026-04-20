@@ -11,34 +11,33 @@ ACTORS = {
 ENDPOINT = "https://query.wikidata.org/sparql"
 
 QUERY = """
-SELECT DISTINCT
-  ?film ?filmLabel ?year
-  ?genreLabel
-  ?director ?directorLabel ?directorBirth
-  ?actor ?actorLabel ?actorBirth
-WHERE {{
-  ?film wdt:P161 wd:{qid} .
+SELECT DISTINCT ?film ?filmLabel ?year ?genreLabel ?director ?directorLabel ?directorBirth ?actor ?actorLabel ?actorBirth ?roleLabel WHERE {{
+  BIND(wd:{qid} AS ?targetActor)
+  ?film wdt:P161 ?targetActor .
   ?film wdt:P166 ?award .
   ?film wdt:P577 ?releaseDate .
   ?film wdt:P57  ?director .
   ?film wdt:P136 ?genre .
 
+  # Récupération du casting avec le rôle
+  ?film p:P161 ?statement .
+  ?statement ps:P161 ?actor .
+  OPTIONAL {{ ?statement pq:P453 ?role . }} 
+
   OPTIONAL {{ ?director wdt:P569 ?directorBirth }}
-  OPTIONAL {{
-    ?film wdt:P161 ?actor .
-    OPTIONAL {{ ?actor wdt:P569 ?actorBirth }}
-  }}
+  OPTIONAL {{ ?actor wdt:P569 ?actorBirth }}
 
   BIND(YEAR(?releaseDate) AS ?year)
 
-  # SERVICE wikibase:label peuple automatiquement les variables ?xxxLabel
-  # en français en priorité, en anglais si la traduction française est absente.
-  SERVICE wikibase:label {{
-    bd:serviceParam wikibase:language "fr,en"
+  SERVICE wikibase:label {{ 
+    bd:serviceParam wikibase:language "fr,en".
+    ?role rdfs:label ?roleLabel.
+    ?film rdfs:label ?filmLabel.
+    ?genre rdfs:label ?genreLabel.
+    ?director rdfs:label ?directorLabel.
+    ?actor rdfs:label ?actorLabel.
   }}
 }}
-ORDER BY DESC(?year)
-LIMIT 200
 """
 
 def val(row, key, default=""):
@@ -53,16 +52,33 @@ def normalize_date(raw):
     raw = raw.lstrip("+")
     return raw[:4] if len(raw) >= 4 else raw
 
-def fetch_rows(actor_qid):
+
+import re  # Ajoute cet import en haut du fichier
+
+import re
+import json
+
+
+def fetch_rows(qid):
     sparql = SPARQLWrapper(ENDPOINT)
-    sparql.setQuery(QUERY.format(qid=actor_qid))
+    # Rappel : Utilise bien les doubles accolades {{ }} dans ta QUERY pour .format()
+    sparql.setQuery(QUERY.format(qid=qid))
     sparql.setReturnFormat(JSON)
-    sparql.addCustomHttpHeader("User-Agent", "CinemaDBProject/1.0")
+
     try:
-        data = sparql.query().convert()
+        # CORRECTION : .query() suffit, puis .convert() ou .response.read()
+        # Pour pouvoir nettoyer le texte avant le JSON, on fait ceci :
+        result = sparql.query()
+        response = result.response.read().decode('utf-8')
+
+        # NETTOYAGE : Supprime les caractères de contrôle ASCII
+        clean_response = re.sub(r'[\x00-\x08\x0b\x0c\x0e-\x1f\x7f]', '', response)
+
+        data = json.loads(clean_response)
         return data["results"]["bindings"]
+
     except Exception as e:
-        print(f"  Erreur : {e}")
+        print(f"Erreur lors de la requête pour {qid}: {e}")
         return []
 
 def group_rows_into_films(rows):

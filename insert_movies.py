@@ -17,4 +17,8 @@ print(f"{len(result.inserted_ids)} films insérés dans la collection movies.")
 for doc in movies.find({}, {"title": 1, "year": 1, "_id": 0}):
     print(f"  - {doc['title']} ({doc.get('year', '?')})")
 
+movies.create_index([("wikidata_id", 1)], unique=True)
+movies.create_index([("cast.wikidata_id", 1)])
+print("Index créés avec succès.")
+
 client.close()

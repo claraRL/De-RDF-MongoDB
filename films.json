@@ -1,81 +1,1701 @@
 [
   {
-    "wikidata_id": "Q100361490",
-    "title": "Don't Look Up : Déni cosmique",
-    "year": 2021,
+    "wikidata_id": "Q106428",
+    "title": "Apollo 13",
+    "year": 1995,
     "director": {
-      "wikidata_id": "Q350405",
-      "name": "Adam McKay",
-      "birthDate": "1968"
+      "wikidata_id": "Q103646",
+      "name": "Ron Howard",
+      "birthDate": "1954"
     },
     "genres": [
-      "comédie",
+      "docudrame",
       "drame",
-      "film apocalyptique",
+      "film de survie",
       "film ou téléfilm catastrophe",
-      "film ou téléfilm de science-fiction",
-      "humour noir",
-      "satire"
+      "film ou téléfilm d'aventure",
+      "film ou téléfilm historique"
     ],
     "cast": [
       {
-        "wikidata_id": "Q686301",
-        "name": "Tyler Perry",
-        "birthDate": "1969",
+        "wikidata_id": "Q1942940",
+        "name": "Steve Rankin",
+        "birthDate": "",
         "role": ""
       },
       {
-        "wikidata_id": "Q1108449",
-        "name": "Tomer Sisley",
-        "birthDate": "1974",
+        "wikidata_id": "Q6986117",
+        "name": "Ned Vaughn",
+        "birthDate": "1964",
         "role": ""
       },
       {
-        "wikidata_id": "Q2835788",
-        "name": "Himesh Patel",
-        "birthDate": "1990",
+        "wikidata_id": "Q21727535",
+        "name": "Marilyn Lovell",
+        "birthDate": "1930",
         "role": ""
       },
       {
-        "wikidata_id": "Q19877770",
-        "name": "Timothée Chalamet",
-        "birthDate": "1995",
+        "wikidata_id": "Q5249301",
+        "name": "Jean Speegle Howard",
+        "birthDate": "1927",
         "role": ""
       },
       {
-        "wikidata_id": "Q27044068",
-        "name": "Rob Morgan",
-        "birthDate": "1973",
+        "wikidata_id": "Q236696",
+        "name": "Kathleen Quinlan",
+        "birthDate": "1954",
         "role": ""
       },
       {
-        "wikidata_id": "Q115445421",
-        "name": "Luan Gallagher",
-        "birthDate": "2000",
+        "wikidata_id": "Q3157150",
+        "name": "Jack Conley",
+        "birthDate": "1958",
         "role": ""
       },
       {
-        "wikidata_id": "Q313388",
-        "name": "Jonah Hill",
-        "birthDate": "1983",
+        "wikidata_id": "Q31073",
+        "name": "Walter Cronkite",
+        "birthDate": "1916",
         "role": ""
       },
       {
-        "wikidata_id": "Q313653",
-        "name": "Michael Chiklis",
+        "wikidata_id": "Q3178896",
+        "name": "Jim Meskimen",
+        "birthDate": "1959",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q21728242",
+        "name": "Mark Wheeler",
+        "birthDate": "",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q1912454",
+        "name": "Max Elliott Slade",
+        "birthDate": "1978",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q15479218",
+        "name": "Joseph Culp",
         "birthDate": "1963",
         "role": ""
       },
       {
-        "wikidata_id": "Q324572",
-        "name": "Mark Rylance",
+        "wikidata_id": "Q4885312",
+        "name": "Ben Bodé",
+        "birthDate": "",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q488723",
+        "name": "Loren Dean",
+        "birthDate": "1969",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q182946",
+        "name": "Joe Spano",
+        "birthDate": "1946",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q110374",
+        "name": "Bill Paxton",
+        "birthDate": "1955",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q6270449",
+        "name": "Jon Bruno",
+        "birthDate": "",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q229775",
+        "name": "Bryce Dallas Howard",
+        "birthDate": "1981",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q2073496",
+        "name": "Ray McKinnon",
+        "birthDate": "1957",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q1101612",
+        "name": "Clint Howard",
+        "birthDate": "1959",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q176277",
+        "name": "Brett Cullen",
+        "birthDate": "1956",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q2263",
+        "name": "Tom Hanks",
+        "birthDate": "1956",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q2004409",
+        "name": "Rance Howard",
+        "birthDate": "1928",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q517602",
+        "name": "Mary Kate Schellhardt",
+        "birthDate": "1978",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q3956755",
+        "name": "Paul Mantee",
+        "birthDate": "1931",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q104791",
+        "name": "Ed Harris",
+        "birthDate": "1950",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q781151",
+        "name": "Austin O'Brien",
+        "birthDate": "1981",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q1337568",
+        "name": "Emily Ann Lloyd",
+        "birthDate": "1984",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q1608534",
+        "name": "Herbert Jefferson, Jr.",
+        "birthDate": "1946",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q330801",
+        "name": "David Andrews",
+        "birthDate": "1952",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q708059",
+        "name": "Chris Ellis",
+        "birthDate": "1956",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q1152815",
+        "name": "Marc McClure",
+        "birthDate": "1957",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q1686458",
+        "name": "Jeffrey Kluger",
+        "birthDate": "1954",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q3454165",
+        "name": "Kevin Bacon",
+        "birthDate": "1958",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q3508279",
+        "name": "Carl Gabriel Yorke",
+        "birthDate": "1952",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q188100",
+        "name": "Brian Markinson",
+        "birthDate": "1961",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q1079204",
+        "name": "Christian Clemenson",
+        "birthDate": "1958",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q528752",
+        "name": "Tracy Reiner",
+        "birthDate": "1964",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q361610",
+        "name": "Xander Berkeley",
+        "birthDate": "1955",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q16187069",
+        "name": "Christopher John Fields",
+        "birthDate": "1956",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q963498",
+        "name": "Miko Hughes",
+        "birthDate": "1986",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q111240",
+        "name": "James Lovell",
+        "birthDate": "1928",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q198684",
+        "name": "Wayne Duvall",
+        "birthDate": "1958",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q359873",
+        "name": "Andy Milder",
+        "birthDate": "1969",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q6836777",
+        "name": "Michele Little",
         "birthDate": "1960",
         "role": ""
       },
       {
-        "wikidata_id": "Q464744",
-        "name": "Paul Guilfoyle",
-        "birthDate": "1949",
+        "wikidata_id": "Q716247",
+        "name": "Max Grodénchik",
+        "birthDate": "1952",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q21728021",
+        "name": "Ben Marley",
+        "birthDate": "",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q7792481",
+        "name": "Thomas Mills Wood",
+        "birthDate": "1963",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q180272",
+        "name": "Gary Sinise",
+        "birthDate": "1955",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q1125651",
+        "name": "Thom Barry",
+        "birthDate": "1950",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q2438469",
+        "name": "Todd Louiso",
+        "birthDate": "1970",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q1502946",
+        "name": "Geoffrey Blake",
+        "birthDate": "1962",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q7812411",
+        "name": "Todd Hallowell",
+        "birthDate": "1952",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q5515696",
+        "name": "Gabriel Jarret",
+        "birthDate": "1970",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q318292",
+        "name": "Roger Corman",
+        "birthDate": "1926",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q21728365",
+        "name": "Larry Williams",
+        "birthDate": "",
+        "role": ""
+      }
+    ]
+  },
+  {
+    "wikidata_id": "Q134773",
+    "title": "Q134773",
+    "year": 1994,
+    "director": {
+      "wikidata_id": "Q187364",
+      "name": "Robert Zemeckis",
+      "birthDate": "1952"
+    },
+    "genres": [
+      "comédie",
+      "drame",
+      "drame historique",
+      "film comédie romantique",
+      "film sur le football américain",
+      "film sur le passage à l'âge adulte",
+      "film à flash-back",
+      "tragi-comédie"
+    ],
+    "cast": [
+      {
+        "wikidata_id": "Q741555",
+        "name": "Mykelti Williamson",
+        "birthDate": "1957",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q26858593",
+        "name": "Jed Gillin",
+        "birthDate": "",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q26858621",
+        "name": "Gary Robinson",
+        "birthDate": "",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q26857962",
+        "name": "Bob Penny",
+        "birthDate": "1935",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q375356",
+        "name": "Dick Cavett",
+        "birthDate": "1936",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q489856",
+        "name": "Haley Joel Osment",
+        "birthDate": "1988",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q26858602",
+        "name": "Bob Harks",
+        "birthDate": "1927",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q26859151",
+        "name": "Tim Perry",
+        "birthDate": "",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q26857974",
+        "name": "Ione Telech",
+        "birthDate": "1922",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q26859068",
+        "name": "Richard D'Alessandro",
+        "birthDate": "1960",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q23926673",
+        "name": "Don Fischer",
+        "birthDate": "",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q180272",
+        "name": "Gary Sinise",
+        "birthDate": "1955",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q26857999",
+        "name": "Ben Waddel",
+        "birthDate": "",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q26857976",
+        "name": "Christine Seabrook",
+        "birthDate": "",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q26857979",
+        "name": "John Worsham",
+        "birthDate": "",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q26857997",
+        "name": "Logan Livingston Gomez",
+        "birthDate": "",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q26858576",
+        "name": "Angela Lomas",
+        "birthDate": "",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q26858530",
+        "name": "Grady Bowman",
+        "birthDate": "",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q26858540",
+        "name": "Fay Genens",
+        "birthDate": "",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q26858533",
+        "name": "Kevin Mangan",
+        "birthDate": "",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q26858709",
+        "name": "Aaron Izbicki",
+        "birthDate": "",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q26858615",
+        "name": "Kenneth Bevington",
+        "birthDate": "",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q26858634",
+        "name": "Kitty K. Green",
+        "birthDate": "",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q26858676",
+        "name": "Danté McCarthy",
+        "birthDate": "",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q26858695",
+        "name": "Daniel J. Gillooly",
+        "birthDate": "",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q26858550",
+        "name": "Pete Auster",
+        "birthDate": "",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q26858768",
+        "name": "Bonnie Ann Burgess",
+        "birthDate": "",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q26858544",
+        "name": "Rob Landry",
+        "birthDate": "",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q26858689",
+        "name": "Jeffrey Winner",
+        "birthDate": "",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q26858589",
+        "name": "Mark Matheisen",
+        "birthDate": "",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q26858737",
+        "name": "Michael McFall",
+        "birthDate": "",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q26858377",
+        "name": "Tyler Long",
+        "birthDate": "",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q26858570",
+        "name": "Kirk Ward",
+        "birthDate": "",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q26859179",
+        "name": "Paul Raczkowski",
+        "birthDate": "",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q26858681",
+        "name": "Michael Kemmerling",
+        "birthDate": "",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q26859371",
+        "name": "Jack Bowden",
+        "birthDate": "",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q26858732",
+        "name": "Steven Griffith",
+        "birthDate": "",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q26859485",
+        "name": "Matt Rebenkoff",
+        "birthDate": "",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q26859640",
+        "name": "Chiffonye Cobb",
+        "birthDate": "",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q26859526",
+        "name": "Peter Bannon",
+        "birthDate": "",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q26859664",
+        "name": "Juan Singleton",
+        "birthDate": "",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q26859763",
+        "name": "Michael Mattison",
+        "birthDate": "",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q26859788",
+        "name": "Lenny Herb",
+        "birthDate": "",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q26859423",
+        "name": "Lazarus Jackson",
+        "birthDate": "",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q26859981",
+        "name": "Lonnie Hamilton",
+        "birthDate": "",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q26860001",
+        "name": "Teresa Denton",
+        "birthDate": "",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q7914705",
+        "name": "Vanessa Roth",
+        "birthDate": "",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q2966611",
+        "name": "Christopher Jones",
+        "birthDate": "1941",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q3376545",
+        "name": "Peter Dobson",
+        "birthDate": "1964",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q272972",
+        "name": "Robin Wright",
+        "birthDate": "1966",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q26858558",
+        "name": "Ed Davis",
+        "birthDate": "1952",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q2691042",
+        "name": "John Voldstad",
+        "birthDate": "1951",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q3536506",
+        "name": "David Brisbin",
+        "birthDate": "1952",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q22665449",
+        "name": "W. Benson Terry",
+        "birthDate": "1921",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q14446",
+        "name": "Hanna R. Hall",
+        "birthDate": "1984",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q16017365",
+        "name": "Hallie D'Amore",
+        "birthDate": "1942",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q442310",
+        "name": "Mary Ellen Trainor",
+        "birthDate": "1952",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q452552",
+        "name": "Grand L. Bush",
+        "birthDate": "1955",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q22985966",
+        "name": "Michael Burgess",
+        "birthDate": "1964",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q1203",
+        "name": "John Lennon",
+        "birthDate": "1940",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q2263",
+        "name": "Tom Hanks",
+        "birthDate": "1956",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q26858577",
+        "name": "Timothy Record",
+        "birthDate": "1970",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q26859033",
+        "name": "Isabel Rose",
+        "birthDate": "1968",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q26858662",
+        "name": "Matt Wallace",
+        "birthDate": "1973",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q26859284",
+        "name": "Marla Sucharetza",
+        "birthDate": "1965",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q103157",
+        "name": "Kurt Russell",
+        "birthDate": "1951",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q1691318",
+        "name": "Joe Alaskey",
+        "birthDate": "1952",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q26858756",
+        "name": "Byron Minns",
+        "birthDate": "1962",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q16091645",
+        "name": "Daniel C. Striepeke",
+        "birthDate": "1930",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q26858547",
+        "name": "Jason McGuire",
+        "birthDate": "1978",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q2384946",
+        "name": "Sonny Shroyer",
+        "birthDate": "1935",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q26858680",
+        "name": "Mike Jolly",
+        "birthDate": "1959",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q26859957",
+        "name": "Timothy McNeil",
+        "birthDate": "1958",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q26857995",
+        "name": "Alexander Zemeckis",
+        "birthDate": "1985",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q4703990",
+        "name": "Al Harrington",
+        "birthDate": "1935",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q26859856",
+        "name": "Charles Boswell",
+        "birthDate": "1945",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q26859100",
+        "name": "Dick Stilwell",
+        "birthDate": "1943",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q22673621",
+        "name": "Kevin Davis",
+        "birthDate": "",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q16239251",
+        "name": "Emily Carey",
+        "birthDate": "2003",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q869771",
+        "name": "Bobby Richardson",
+        "birthDate": "1935",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q1357803",
+        "name": "Michael Conner Humphreys",
+        "birthDate": "1985",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q9582",
+        "name": "Gerald Ford",
+        "birthDate": "1913",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q950104",
+        "name": "Michael Jace",
+        "birthDate": "1970",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q7050088",
+        "name": "Nora Dunfee",
+        "birthDate": "1915",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q3498519",
+        "name": "Stephen Bridgewater",
+        "birthDate": "1953",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q20993894",
+        "name": "Elizabeth Hanks",
+        "birthDate": "1982",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q26857959",
+        "name": "Rebecca Williams",
+        "birthDate": "1969",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q187033",
+        "name": "Sally Field",
+        "birthDate": "1946",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q457991",
+        "name": "Siobhan Fallon Hogan",
+        "birthDate": "1961",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q2825721",
+        "name": "Afemo Omilami",
+        "birthDate": "1950",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q26858889",
+        "name": "Hilary Chaplain",
+        "birthDate": "1956",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q26858584",
+        "name": "Deborah McTeer",
+        "birthDate": "1953",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q6212499",
+        "name": "Joe Stefanelli",
+        "birthDate": "1960",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q26859187",
+        "name": "Valentine",
+        "birthDate": "",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q26857964",
+        "name": "John Randall",
+        "birthDate": "1914",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q26857961",
+        "name": "George Kelly",
+        "birthDate": "",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q26858807",
+        "name": "Scott Oliver",
+        "birthDate": "",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q26859059",
+        "name": "Jay Ross",
+        "birthDate": "",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q26858542",
+        "name": "Frank Geyer",
+        "birthDate": "",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q2386386",
+        "name": "Jacqueline Lovell",
+        "birthDate": "1974",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q26859543",
+        "name": "Joe Washington",
+        "birthDate": "",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q26858814",
+        "name": "John William Galt",
+        "birthDate": "1940",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q1502946",
+        "name": "Geoffrey Blake",
+        "birthDate": "1962",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q26857960",
+        "name": "Harold Herthum",
+        "birthDate": "1929",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q4962360",
+        "name": "Brett Rice",
+        "birthDate": "1954",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q26858744",
+        "name": "Eric Underwood",
+        "birthDate": "1968",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q26857972",
+        "name": "Margo Moorer",
+        "birthDate": "",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q26858706",
+        "name": "Calvin Gadsden",
+        "birthDate": "",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q26858619",
+        "name": "Michael Flannery",
+        "birthDate": "",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q26858677",
+        "name": "Paulie DiCocco",
+        "birthDate": "",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q26858692",
+        "name": "Russ Wilson",
+        "birthDate": "",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q26858734",
+        "name": "William Acy \"Billy\" Roberson Jr",
+        "birthDate": "",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q26858753",
+        "name": "Steve DeRelian",
+        "birthDate": "",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q26859347",
+        "name": "Aloysius Gigl",
+        "birthDate": "",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q26858623",
+        "name": "Marlena Smalls",
+        "birthDate": "",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q26859208",
+        "name": "Tiffany Salerno",
+        "birthDate": "",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q374447",
+        "name": "Sam Anderson",
+        "birthDate": "1947",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q26859576",
+        "name": "Natalie Hendrix",
+        "birthDate": "",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q26858567",
+        "name": "Bruce Lucvia",
+        "birthDate": "",
+        "role": ""
+      }
+    ]
+  },
+  {
+    "wikidata_id": "Q204057",
+    "title": "Philadelphia",
+    "year": 1993,
+    "director": {
+      "wikidata_id": "Q48987",
+      "name": "Jonathan Demme",
+      "birthDate": "1944"
+    },
+    "genres": [
+      "drame",
+      "film LGBT",
+      "film de procès"
+    ],
+    "cast": [
+      {
+        "wikidata_id": "Q3098559",
+        "name": "Gary Goetzman",
+        "birthDate": "1952",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q7734477",
+        "name": "The Flirtations",
+        "birthDate": "",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q21527123",
+        "name": "Dodie Demme",
+        "birthDate": "1914",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q3783517",
+        "name": "Harry Northup",
+        "birthDate": "1940",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q431356",
+        "name": "Charles Napier",
+        "birthDate": "1936",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q5233065",
+        "name": "David Drake",
+        "birthDate": "1963",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q1163293",
+        "name": "Daniel von Bargen",
+        "birthDate": "1950",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q3161881",
+        "name": "Jane Moore",
+        "birthDate": "1965",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q3194103",
+        "name": "Kathryn Witt",
+        "birthDate": "1950",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q736343",
+        "name": "David Drake",
+        "birthDate": "1945",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q7822347",
+        "name": "Tony Fitzpatrick",
+        "birthDate": "1958",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q1678770",
+        "name": "Jaimé P. Gomez",
+        "birthDate": "1965",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q6369637",
+        "name": "Karen Finley",
+        "birthDate": "1956",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q2702964",
+        "name": "Adam LeFevre",
+        "birthDate": "1950",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q373139",
+        "name": "José Castillo",
+        "birthDate": "1921",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q108935",
+        "name": "Mary Steenburgen",
+        "birthDate": "1953",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q1699298",
+        "name": "John Bedford Lloyd",
+        "birthDate": "1956",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q434902",
+        "name": "Ed Rendell",
+        "birthDate": "1944",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q296630",
+        "name": "Jason Robards",
+        "birthDate": "1922",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q7350652",
+        "name": "Robert W. Castle",
+        "birthDate": "1929",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q2159369",
+        "name": "Roberta Maxwell",
+        "birthDate": "1941",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q920513",
+        "name": "Quentin Crisp",
+        "birthDate": "1908",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q687234",
+        "name": "Obba Babatundé",
+        "birthDate": "1951",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q1366460",
+        "name": "Tracey Walter",
+        "birthDate": "1947",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q2263",
+        "name": "Tom Hanks",
+        "birthDate": "1956",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q458884",
+        "name": "Q Lazzarus",
+        "birthDate": "1960",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q40090",
+        "name": "Chandra Wilson",
+        "birthDate": "1969",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q2915047",
+        "name": "Freddie Foxxx",
+        "birthDate": "1969",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q6390767",
+        "name": "Kenneth Utt",
+        "birthDate": "1921",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q352180",
+        "name": "Bradley Whitford",
+        "birthDate": "1959",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q318292",
+        "name": "Roger Corman",
+        "birthDate": "1926",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q21526726",
+        "name": "Stephanie Roth Haberle",
+        "birthDate": "1963",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q1421128",
+        "name": "Ron Vawter",
+        "birthDate": "1948",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q21526951",
+        "name": "Lisa Summerour",
+        "birthDate": "1960",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q41548",
+        "name": "Antonio Banderas",
+        "birthDate": "1960",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q21527152",
+        "name": "Lawrence T. Wrentz",
+        "birthDate": "1954",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q21527075",
+        "name": "Katie Lintner",
+        "birthDate": "1987",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q21526633",
+        "name": "Daniel Chapman",
+        "birthDate": "1952",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q209921",
+        "name": "Julius Erving",
+        "birthDate": "1950",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q21527040",
+        "name": "Dennis Radesky",
+        "birthDate": "1948",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q21527188",
+        "name": "Daniel Wolff",
+        "birthDate": "",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q21527246",
+        "name": "Gene Borkan",
+        "birthDate": "1947",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q21527169",
+        "name": "Jim Roche",
+        "birthDate": "",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q21527084",
+        "name": "Ann Howard",
+        "birthDate": "",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q21526961",
+        "name": "Paul Moore",
+        "birthDate": "",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q21527117",
+        "name": "Melissa Fraser Brown",
+        "birthDate": "",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q21526661",
+        "name": "Mark Sorensen Jr.",
+        "birthDate": "",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q21526745",
+        "name": "Lisa Talerico",
+        "birthDate": "",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q21527269",
+        "name": "Lucas Platt",
+        "birthDate": "",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q21527033",
+        "name": "Bill Rowe",
+        "birthDate": "",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q21526997",
+        "name": "Lauren Roselli",
+        "birthDate": "",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q21526967",
+        "name": "Warren Miller",
+        "birthDate": "",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q21527024",
+        "name": "Joey Perillo",
+        "birthDate": "",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q21527058",
+        "name": "John Ignarri",
+        "birthDate": "",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q21527108",
+        "name": "Dan Olmstead",
+        "birthDate": "",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q21527111",
+        "name": "Elizabeth Roby",
+        "birthDate": "",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q21527063",
+        "name": "Richard Ehrlich",
+        "birthDate": "",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q21527141",
+        "name": "Billy Ray Tyson",
+        "birthDate": "",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q21527134",
+        "name": "Donovan Mannato",
+        "birthDate": "",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q21527087",
+        "name": "Meghan Tepas",
+        "birthDate": "",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q21527081",
+        "name": "Peg French",
+        "birthDate": "",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q21527165",
+        "name": "Charles Techman",
+        "birthDate": "",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q21527120",
+        "name": "Jordan Cael",
+        "birthDate": "",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q21527105",
+        "name": "Molly Hickok",
+        "birthDate": "",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q21527172",
+        "name": "Donna Hamilton",
+        "birthDate": "",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q21527130",
+        "name": "Patricia Greenwell",
+        "birthDate": "",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q21527194",
+        "name": "Edward Kirkland",
+        "birthDate": "",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q21527161",
+        "name": "James B. Howard",
+        "birthDate": "",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q21527138",
+        "name": "Steven Scales",
+        "birthDate": "",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q21527239",
+        "name": "Andre B. Blake",
+        "birthDate": "",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q21527191",
+        "name": "John T. O'Connell",
+        "birthDate": "",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q21527243",
+        "name": "Ira Flitter",
+        "birthDate": "",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q488925",
+        "name": "Tak Fujimoto",
+        "birthDate": "1939",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q19631403",
+        "name": "Paul Lazar",
+        "birthDate": "1950",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q2558129",
+        "name": "Ann Dowd",
+        "birthDate": "1956",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q21526674",
+        "name": "Jeffrey Williamson",
+        "birthDate": "1965",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q21527279",
+        "name": "Carmen Mahiques",
+        "birthDate": "",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q21527292",
+        "name": "Leigh Smiley",
+        "birthDate": "",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q5003533",
+        "name": "Buzz Kilman",
+        "birthDate": "1944",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q21527145",
+        "name": "Steve Vignari",
+        "birthDate": "1925",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q286777",
+        "name": "Anna Deavere Smith",
+        "birthDate": "1950",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q21526849",
+        "name": "Peter Jacobs",
+        "birthDate": "",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q1111542",
+        "name": "Joanne Woodward",
+        "birthDate": "1930",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q42101",
+        "name": "Denzel Washington",
+        "birthDate": "1954",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q21526709",
+        "name": "Charles Glenn",
+        "birthDate": "",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q21526758",
+        "name": "Ford Wheeler",
+        "birthDate": "",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q21527045",
+        "name": "Glen Hartell",
+        "birthDate": "",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q21527229",
+        "name": "Debra H. Ballard",
+        "birthDate": "",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q21527295",
+        "name": "Philip Joseph 'PJ' McGee",
+        "birthDate": "",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q7349286",
+        "name": "Robert Ridgely",
+        "birthDate": "1931",
+        "role": ""
+      }
+    ]
+  },
+  {
+    "wikidata_id": "Q157044",
+    "title": "The Hours",
+    "year": 2002,
+    "director": {
+      "wikidata_id": "Q313506",
+      "name": "Stephen Daldry",
+      "birthDate": "1961"
+    },
+    "genres": [
+      "drame",
+      "film LGBT"
+    ],
+    "cast": [
+      {
+        "wikidata_id": "Q37459",
+        "name": "Nicole Kidman",
+        "birthDate": "1967",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q80405",
+        "name": "Julianne Moore",
+        "birthDate": "1960",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q3805643",
+        "name": "Jack Rovello",
+        "birthDate": "1994",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q104791",
+        "name": "Ed Harris",
+        "birthDate": "1950",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q257317",
+        "name": "Margo Martindale",
+        "birthDate": "1951",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q707538",
+        "name": "Stephen Dillane",
+        "birthDate": "1957",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q360046",
+        "name": "Christian Coulson",
+        "birthDate": "1978",
         "role": ""
       },
       {
@@ -85,298 +1705,284 @@
         "role": ""
       },
       {
-        "wikidata_id": "Q38111",
-        "name": "Leonardo DiCaprio",
-        "birthDate": "1974",
+        "wikidata_id": "Q24357",
+        "name": "Lyndsey Marshal",
+        "birthDate": "1978",
         "role": ""
       },
       {
-        "wikidata_id": "Q80966",
-        "name": "Cate Blanchett",
-        "birthDate": "1969",
+        "wikidata_id": "Q53680",
+        "name": "Jeff Daniels",
+        "birthDate": "1955",
         "role": ""
       },
       {
-        "wikidata_id": "Q151892",
-        "name": "Ariana Grande",
-        "birthDate": "1993",
+        "wikidata_id": "Q269835",
+        "name": "Eileen Atkins",
+        "birthDate": "1934",
         "role": ""
       },
       {
-        "wikidata_id": "Q178348",
-        "name": "Chris Evans",
-        "birthDate": "1981",
+        "wikidata_id": "Q6829578",
+        "name": "Michael Culkin",
+        "birthDate": "2000",
         "role": ""
       },
       {
-        "wikidata_id": "Q189490",
-        "name": "Jennifer Lawrence",
-        "birthDate": "1990",
+        "wikidata_id": "Q501750",
+        "name": "Colin Stinton",
+        "birthDate": "1947",
         "role": ""
       },
       {
-        "wikidata_id": "Q220698",
-        "name": "Ron Perlman",
+        "wikidata_id": "Q223110",
+        "name": "John C. Reilly",
+        "birthDate": "1965",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q3134239",
+        "name": "Linda Bassett",
         "birthDate": "1950",
         "role": ""
       },
       {
-        "wikidata_id": "Q235905",
-        "name": "Melanie Lynskey",
-        "birthDate": "1977",
+        "wikidata_id": "Q229291",
+        "name": "Toni Collette",
+        "birthDate": "1972",
         "role": ""
       },
       {
-        "wikidata_id": "Q299138",
-        "name": "Kid Cudi",
-        "birthDate": "1984",
+        "wikidata_id": "Q229487",
+        "name": "Allison Janney",
+        "birthDate": "1959",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q229241",
+        "name": "Miranda Richardson",
+        "birthDate": "1958",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q867813",
+        "name": "Claire Danes",
+        "birthDate": "1979",
         "role": ""
       }
     ]
   },
   {
-    "wikidata_id": "Q56881140",
-    "title": "Les Filles du docteur March",
-    "year": 2020,
+    "wikidata_id": "Q116905",
+    "title": "Les Désastreuses Aventures des orphelins Baudelaire",
+    "year": 2004,
     "director": {
-      "wikidata_id": "Q271967",
-      "name": "Greta Gerwig",
-      "birthDate": "1983"
+      "wikidata_id": "Q725449",
+      "name": "Brad Silberling",
+      "birthDate": "1963"
+    },
+    "genres": [
+      "comédie",
+      "drame",
+      "film et téléfilm de fantasy",
+      "film ou téléfilm d'aventure",
+      "film ou téléfilm familial",
+      "film pour adolescents"
+    ],
+    "cast": [
+      {
+        "wikidata_id": "Q72867",
+        "name": "Craig Ferguson",
+        "birthDate": "1962",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q42930",
+        "name": "Dustin Hoffman",
+        "birthDate": "1937",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q233365",
+        "name": "Catherine O'Hara",
+        "birthDate": "1954",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q288620",
+        "name": "Emily Browning",
+        "birthDate": "1988",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q298838",
+        "name": "Billy Connolly",
+        "birthDate": "1942",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q873",
+        "name": "Meryl Streep",
+        "birthDate": "1949",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q221464",
+        "name": "Gilbert Gottfried",
+        "birthDate": "1955",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q526201",
+        "name": "Deborah Theaker",
+        "birthDate": "1964",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q347395",
+        "name": "Luis Guzmán",
+        "birthDate": "1956",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q587641",
+        "name": "Jamie Harris",
+        "birthDate": "1963",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q228852",
+        "name": "Jane Lynch",
+        "birthDate": "1960",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q230278",
+        "name": "Jennifer Coolidge",
+        "birthDate": "1961",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q287824",
+        "name": "Timothy Spall",
+        "birthDate": "1957",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q212224",
+        "name": "Liam Aiken",
+        "birthDate": "1990",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q436360",
+        "name": "Jane Adams",
+        "birthDate": "1965",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q160432",
+        "name": "Jude Law",
+        "birthDate": "1972",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q40504",
+        "name": "Jim Carrey",
+        "birthDate": "1962",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q492327",
+        "name": "Cedric the Entertainer",
+        "birthDate": "1964",
+        "role": ""
+      }
+    ]
+  },
+  {
+    "wikidata_id": "Q193577",
+    "title": "Kramer contre Kramer",
+    "year": 1979,
+    "director": {
+      "wikidata_id": "Q59085",
+      "name": "Robert Benton",
+      "birthDate": "1932"
     },
     "genres": [
       "drame"
     ],
     "cast": [
       {
-        "wikidata_id": "Q873",
-        "name": "Meryl Streep",
+        "wikidata_id": "Q42930",
+        "name": "Dustin Hoffman",
+        "birthDate": "1937",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q13472612",
+        "name": "Sean Albertson",
+        "birthDate": "1968",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q242717",
+        "name": "Jane Alexander",
+        "birthDate": "1939",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q7002076",
+        "name": "Bill Moor",
+        "birthDate": "1931",
+        "role": ""
+      },
+      {
+        "wikidata_id": "Q1331857",
+        "name": "Ellen Parker",
         "birthDate": "1949",
         "role": ""
       },
       {
-        "wikidata_id": "Q39476",
-        "name": "Emma Watson",
-        "birthDate": "1990",
+        "wikidata_id": "Q237809",
+        "name": "JoBeth Williams",
+        "birthDate": "1948",
         "role": ""
       },
       {
-        "wikidata_id": "Q220901",
-        "name": "Laura Dern",
-        "birthDate": "1967",
-        "role": ""
-      },
-      {
-        "wikidata_id": "Q228603",
-        "name": "Saoirse Ronan",
-        "birthDate": "1994",
-        "role": ""
-      },
-      {
-        "wikidata_id": "Q273208",
-        "name": "Chris Cooper",
-        "birthDate": "1951",
-        "role": ""
-      },
-      {
-        "wikidata_id": "Q382393",
-        "name": "Louis Garrel",
-        "birthDate": "1983",
-        "role": ""
-      },
-      {
-        "wikidata_id": "Q888178",
-        "name": "Bob Odenkirk",
-        "birthDate": "1962",
-        "role": ""
-      },
-      {
-        "wikidata_id": "Q984572",
-        "name": "Tracy Letts",
-        "birthDate": "1965",
-        "role": ""
-      },
-      {
-        "wikidata_id": "Q6167882",
-        "name": "Jayne Houdyshell",
-        "birthDate": "1953",
-        "role": ""
-      },
-      {
-        "wikidata_id": "Q6781118",
-        "name": "Maryann Plunkett",
-        "birthDate": "1953",
-        "role": ""
-      },
-      {
-        "wikidata_id": "Q15990205",
-        "name": "James Norton",
-        "birthDate": "1985",
-        "role": ""
-      },
-      {
-        "wikidata_id": "Q19877770",
-        "name": "Timothée Chalamet",
-        "birthDate": "1995",
-        "role": ""
-      },
-      {
-        "wikidata_id": "Q22277803",
-        "name": "Florence Pugh",
-        "birthDate": "1996",
-        "role": ""
-      },
-      {
-        "wikidata_id": "Q29122309",
-        "name": "Eliza Scanlen",
-        "birthDate": "1999",
-        "role": ""
-      },
-      {
-        "wikidata_id": "Q34618977",
-        "name": "Abby Quinn",
-        "birthDate": "1996",
-        "role": ""
-      }
-    ]
-  },
-  {
-    "wikidata_id": "Q24272881",
-    "title": "Le Retour de Mary Poppins",
-    "year": 2019,
-    "director": {
-      "wikidata_id": "Q353501",
-      "name": "Rob Marshall",
-      "birthDate": "1960"
-    },
-    "genres": [
-      "film ou téléfilm familial",
-      "film ou téléfilm musical"
-    ],
-    "cast": [
-      {
-        "wikidata_id": "Q873",
-        "name": "Meryl Streep",
-        "birthDate": "1949",
-        "role": ""
-      },
-      {
-        "wikidata_id": "Q162492",
-        "name": "Colin Firth",
-        "birthDate": "1960",
-        "role": ""
-      },
-      {
-        "wikidata_id": "Q193517",
-        "name": "Emily Blunt",
-        "birthDate": "1983",
-        "role": ""
-      },
-      {
-        "wikidata_id": "Q201512",
-        "name": "Steve Nicolson",
-        "birthDate": "1966",
-        "role": ""
-      },
-      {
-        "wikidata_id": "Q206856",
-        "name": "Angela Lansbury",
-        "birthDate": "1925",
-        "role": ""
-      },
-      {
-        "wikidata_id": "Q228747",
-        "name": "Julie Walters",
-        "birthDate": "1950",
-        "role": ""
-      },
-      {
-        "wikidata_id": "Q230308",
-        "name": "Emily Mortimer",
+        "wikidata_id": "Q464353",
+        "name": "Justin Henry",
         "birthDate": "1971",
         "role": ""
       },
       {
-        "wikidata_id": "Q283904",
-        "name": "Karen Dotrice",
-        "birthDate": "1955",
+        "wikidata_id": "Q1631794",
+        "name": "Howard Duff",
+        "birthDate": "1913",
         "role": ""
       },
       {
-        "wikidata_id": "Q310295",
-        "name": "Dick Van Dyke",
-        "birthDate": "1925",
+        "wikidata_id": "Q1345052",
+        "name": "Joe Seneca",
+        "birthDate": "1919",
         "role": ""
       },
       {
-        "wikidata_id": "Q342430",
-        "name": "Mark Addy",
-        "birthDate": "1964",
+        "wikidata_id": "Q3760469",
+        "name": "George Coe",
+        "birthDate": "1929",
         "role": ""
       },
       {
-        "wikidata_id": "Q342617",
-        "name": "Ben Whishaw",
-        "birthDate": "1980",
+        "wikidata_id": "Q15816063",
+        "name": "Howland Chamberlain",
+        "birthDate": "1911",
         "role": ""
       },
       {
-        "wikidata_id": "Q363271",
-        "name": "David Warner",
-        "birthDate": "1941",
-        "role": ""
-      },
-      {
-        "wikidata_id": "Q560413",
-        "name": "Edward Hibbert",
-        "birthDate": "1955",
-        "role": ""
-      },
-      {
-        "wikidata_id": "Q933129",
-        "name": "Chris O'Dowd",
-        "birthDate": "1979",
-        "role": ""
-      },
-      {
-        "wikidata_id": "Q1593157",
-        "name": "Jim Norton",
-        "birthDate": "1938",
-        "role": ""
-      },
-      {
-        "wikidata_id": "Q1646482",
-        "name": "Lin-Manuel Miranda",
-        "birthDate": "1980",
-        "role": ""
-      },
-      {
-        "wikidata_id": "Q3807968",
-        "name": "Jeremy Swift",
-        "birthDate": "1960",
-        "role": ""
-      },
-      {
-        "wikidata_id": "Q7048366",
-        "name": "Noma Dumezweni",
-        "birthDate": "1969",
-        "role": ""
-      },
-      {
-        "wikidata_id": "Q27733294",
-        "name": "Pixie Davies",
-        "birthDate": "2006",
-        "role": ""
-      },
-      {
-        "wikidata_id": "Q28912581",
-        "name": "Nathanael Saleh",
-        "birthDate": "2006",
-        "role": ""
-      },
-      {
-        "wikidata_id": "Q28912592",
-        "name": "Joel Dawson",
-        "birthDate": "",
+        "wikidata_id": "Q873",
+        "name": "Meryl Streep",
+        "birthDate": "1949",
         "role": ""
       }
     ]
