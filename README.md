@@ -28,7 +28,7 @@ Installez les dépendances nécessaires via `pip` :
 pip install SPARQLWrapper pymongo
 ```
 
-🚀 Instructions d'exécution
+## 🚀 Instructions d'exécution
 
 Veuillez suivre les étapes dans cet ordre précis pour construire la base de données :
 
@@ -62,7 +62,7 @@ mongosh cinema actors_build.js
 
 Ce script utilise le framework d'agrégation pour regrouper tous les films pour chaque acteur présent dans la base.
 
-🔍 Vérification des données
+## 🔍 Vérification des données
 
 Vous pouvez vérifier le succès de l'opération directement dans le shell MongoDB (mongosh) :
 
@@ -75,6 +75,6 @@ db.movies.findOne()
 db.actors.findOne()
 ```
 
-📝 Auteur
+## 📝 Auteur
 
 Ralu--Leroy Clara - Avril 2026
